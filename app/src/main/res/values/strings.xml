@@ -3,7 +3,7 @@
     <string name="open_student_list">Открыть список студентов</string>
     <string name="add_entry">добавить запись</string>
     <string name="change_entry">заменить запись</string>
+    <string name="name">"Имя: %s"</string>
     <string name="id">"ID: %s</string>
-    <string name="time">Время: %s</string>
     <string name="date">Дата: %s</string>
 </resources>

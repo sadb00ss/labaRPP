@@ -1,5 +1,6 @@
-package com.example.labarpp.db
+package com.example.labarpp.domain
 
+import com.example.labarpp.db.Student
 import java.sql.Timestamp
 
 class Repository {
